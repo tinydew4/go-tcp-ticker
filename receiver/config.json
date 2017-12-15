@@ -1,0 +1,6 @@
+{
+    "logPath": "./",
+    "DebugLog": 1,
+    "Port": 12345,
+    "ReadTimeoutMs": 1000
+}
